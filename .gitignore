@@ -1,0 +1,7 @@
+bin/
+obj/
+
+# research: keep only the scripts/notes needed to replicate, not captured data
+research/.venv/
+research/vendor-driver/
+research/logs/*.csv
